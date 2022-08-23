@@ -4,7 +4,10 @@
 
 Create an SSH key, then paste pub key at: `https://github.com/settings/keys`.
 
-After, run: `git git@github.com:lcpichette/Life-Management-App.git`.
+After, run: `git clone git@github.com:lcpichette/Life-Management-App.git`.
+
+From here you should be able to enter this new folder 'Life-Management-App'
+and see the app.
 
 ### Establishing your Footing
 
